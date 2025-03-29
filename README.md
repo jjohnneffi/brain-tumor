@@ -1,0 +1,1 @@
+This project implements real-time brain tumor detection using MRI scans and generates a detailed NLP-based medical report. It utilizes deep learning models (CNN with TensorFlow/PyTorch) to classify MRI images into tumor and non-tumor categories. After detection, the system generates a natural language medical report using NLP techniques (SpaCy/NLTK).
